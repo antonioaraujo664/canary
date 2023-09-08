@@ -88,6 +88,8 @@ monster.loot = {
 	{ id = 2920, chance = 1000 }, -- torch
 	{ id = 3008, chance = 260 }, -- crystal necklace
 	{ id = 3030, chance = 130 } -- small ruby
+	{ id = 3361, chance = 500 } -- leather armor
+	{ id = 3426, chance = 50 } -- leather armor
 }
 
 monster.attacks = {
