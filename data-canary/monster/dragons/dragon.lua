@@ -106,6 +106,8 @@ monster.loot = {
 	{ id = 7430, chance = 110 }, -- dragonbone staff
 	{ id = 236, chance = 1000 }, -- strong health potion
 	{ id = 11457, chance = 9740 } -- dragon's tail
+	{ id = 3286, chance = 200 } -- mace	
+  { id = 3294, chance = 250 } -- short sword	
 }
 
 monster.attacks = {
